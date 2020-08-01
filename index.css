@@ -112,13 +112,13 @@ section{
 /* home section style */
 .home{
     color: #C0B283;
-    padding: 200px 0;
+    padding: 100px 0;
     /* height: %; */
     text-align: left;
     display: flex;
     justify-content: center;
     align-items: flex-start;
-		-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+		/* -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */ */
   	filter: grayscale(100%);
     background: url(images/image-min.jpg) no-repeat;
 		background-position: center top;
